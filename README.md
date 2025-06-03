@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">I am a backend developer, I am about to finish my studies in systems engineering.</h3>
+<h3 align="center">I am a Full-Stack developer, I am about to finish my studies in systems engineering.</h3>
 
 - 🌱 I’m currently learning **Node js**
 
